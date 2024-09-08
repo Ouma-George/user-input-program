@@ -1,0 +1,1 @@
+Hello, this is George BushA student at PLP AcademyI am in May CohortI have specialized in several modules.One of them is python. I love to learn python and django to create interacting apps and websites.
